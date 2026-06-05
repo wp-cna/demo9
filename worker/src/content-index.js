@@ -1,6 +1,6 @@
 export default {
-  "generatedAt": "2026-06-05T16:10:12.948Z",
-  "itemCount": 224,
+  "generatedAt": "2026-06-05T17:29:14.203Z",
+  "itemCount": 228,
   "items": [
     {
       "id": "page:/",
@@ -244,6 +244,24 @@ export default {
       "type": "event",
       "excerpt": "Public city meeting in White Plains. Agenda and updates are available from the City.",
       "text": "Public city meeting in White Plains. Agenda and updates are available from the City.\n\nCivic\n\nCommunity Development: Annual Action Plan Public Hearing 2\n\nPublic city meeting in White Plains. Agenda and updates are available from the City.\n\nAbout this event\n\nCommunity Development: Annual Action Plan Public Hearing 2 is on the City of White Plains calendar.\n\nUse the City listing for the agenda, location updates, and schedule changes.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nMonday, April 13, 2026\n\nTime\n\n6:30 PM\n\nLocation\n\nWhite Plains\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nDesign Review Board\n\nApr 13, 2026\n\nPublic city meeting in White Plains. Agenda and updates are available from the City.\n\nConservation Board Meeting\n\nApr 20, 2026\n\nPublic city meeting in White Plains. Agenda and updates are available from the City.\n\nTransportation Commission Meeting\n\nApr 21, 2026\n\nPublic meeting at City Hall Common Council Chambers. Agenda and updates are available from the City."
+    },
+    {
+      "id": "page:/events/city-concerts-at-renaissance-plaza-2026-07-23/",
+      "sourceId": "page:/events/city-concerts-at-renaissance-plaza-2026-07-23/",
+      "title": "Concerts at Renaissance Plaza",
+      "url": "/events/city-concerts-at-renaissance-plaza-2026-07-23/",
+      "type": "event",
+      "excerpt": "Concerts at Renaissance Plaza at Renaissance Plaza Park. Details are available from the City.",
+      "text": "Concerts at Renaissance Plaza at Renaissance Plaza Park. Details are available from the City.\n\nLocal\n\nConcerts at Renaissance Plaza\n\nConcerts at Renaissance Plaza at Renaissance Plaza Park. Details are available from the City.\n\nAbout this event\n\nConcerts at Renaissance Plaza is on the City of White Plains calendar for Renaissance Plaza Park.\n\nUse the City listing for details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nThursday, July 23, 2026\n\nTime\n\n7:00 PM\n\nLocation\n\nRenaissance Plaza Park\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Details are available from the City.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Details are available from the City.\n\nPride LGBTQ+ Festival\n\nJun 7, 2026\n\nPride LGBTQ+ Festival at Court Street / Renaissance Plaza. Details are available from the City."
+    },
+    {
+      "id": "page:/events/city-concerts-at-renaissance-plaza-2026-08-13/",
+      "sourceId": "page:/events/city-concerts-at-renaissance-plaza-2026-08-13/",
+      "title": "Concerts at Renaissance Plaza",
+      "url": "/events/city-concerts-at-renaissance-plaza-2026-08-13/",
+      "type": "event",
+      "excerpt": "Concerts at Renaissance Plaza at Renaissance Plaza Park. Details are available from the City.",
+      "text": "Concerts at Renaissance Plaza at Renaissance Plaza Park. Details are available from the City.\n\nLocal\n\nConcerts at Renaissance Plaza\n\nConcerts at Renaissance Plaza at Renaissance Plaza Park. Details are available from the City.\n\nAbout this event\n\nConcerts at Renaissance Plaza is on the City of White Plains calendar for Renaissance Plaza Park.\n\nUse the City listing for details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nThursday, August 13, 2026\n\nTime\n\n12:00 PM\n\nLocation\n\nRenaissance Plaza Park\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Details are available from the City.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Details are available from the City.\n\nPride LGBTQ+ Festival\n\nJun 7, 2026\n\nPride LGBTQ+ Festival at Court Street / Renaissance Plaza. Details are available from the City."
     },
     {
       "id": "page:/events/city-conservation-board-meeting-2026-04-20/",
@@ -505,6 +523,33 @@ export default {
       "type": "event",
       "excerpt": "Neighborhood Nights at Battle Hill Park. Details are available from the City.",
       "text": "Neighborhood Nights at Battle Hill Park. Details are available from the City.\n\nLocal\n\nNeighborhood Nights\n\nNeighborhood Nights at Battle Hill Park. Details are available from the City.\n\nAbout this event\n\nNeighborhood Nights is on the City of White Plains calendar for Battle Hill Park.\n\nUse the City listing for details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, July 27, 2026\n\nTime\n\n6:30 PM\n\nLocation\n\nBattle Hill Park\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Details are available from the City.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Details are available from the City.\n\nPride LGBTQ+ Festival\n\nJun 7, 2026\n\nPride LGBTQ+ Festival at Court Street / Renaissance Plaza. Details are available from the City."
+    },
+    {
+      "id": "page:/events/city-neighborhood-nights-2026-08-03/",
+      "sourceId": "page:/events/city-neighborhood-nights-2026-08-03/",
+      "title": "Neighborhood Nights",
+      "url": "/events/city-neighborhood-nights-2026-08-03/",
+      "type": "event",
+      "excerpt": "Neighborhood Nights at Tibbits Park. Details are available from the City.",
+      "text": "Neighborhood Nights at Tibbits Park. Details are available from the City.\n\nLocal\n\nNeighborhood Nights\n\nNeighborhood Nights at Tibbits Park. Details are available from the City.\n\nAbout this event\n\nNeighborhood Nights is on the City of White Plains calendar for Tibbits Park.\n\nUse the City listing for details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, August 3, 2026\n\nTime\n\n6:30 PM\n\nLocation\n\nTibbits Park\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Details are available from the City.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Details are available from the City.\n\nPride LGBTQ+ Festival\n\nJun 7, 2026\n\nPride LGBTQ+ Festival at Court Street / Renaissance Plaza. Details are available from the City."
+    },
+    {
+      "id": "page:/events/city-neighborhood-nights-2026-08-10/",
+      "sourceId": "page:/events/city-neighborhood-nights-2026-08-10/",
+      "title": "Neighborhood Nights",
+      "url": "/events/city-neighborhood-nights-2026-08-10/",
+      "type": "event",
+      "excerpt": "Neighborhood Nights at Mattison Park. Details are available from the City.",
+      "text": "Neighborhood Nights at Mattison Park. Details are available from the City.\n\nLocal\n\nNeighborhood Nights\n\nNeighborhood Nights at Mattison Park. Details are available from the City.\n\nAbout this event\n\nNeighborhood Nights is on the City of White Plains calendar for Mattison Park.\n\nUse the City listing for details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, August 10, 2026\n\nTime\n\n6:30 PM\n\nLocation\n\nMattison Park\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Details are available from the City.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Details are available from the City.\n\nPride LGBTQ+ Festival\n\nJun 7, 2026\n\nPride LGBTQ+ Festival at Court Street / Renaissance Plaza. Details are available from the City."
+    },
+    {
+      "id": "page:/events/city-neighborhood-nights-2026-08-17/",
+      "sourceId": "page:/events/city-neighborhood-nights-2026-08-17/",
+      "title": "Neighborhood Nights",
+      "url": "/events/city-neighborhood-nights-2026-08-17/",
+      "type": "event",
+      "excerpt": "Neighborhood Nights at Gardella Park. Details are available from the City.",
+      "text": "Neighborhood Nights at Gardella Park. Details are available from the City.\n\nLocal\n\nNeighborhood Nights\n\nNeighborhood Nights at Gardella Park. Details are available from the City.\n\nAbout this event\n\nNeighborhood Nights is on the City of White Plains calendar for Gardella Park.\n\nUse the City listing for details, updates, and any schedule changes.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nMonday, August 17, 2026\n\nTime\n\n6:30 PM\n\nLocation\n\nGardella Park\n\nAddress\n\nWhite Plains, NY\n\nSource\n\nCity of White Plains\n\nMore Events\n\nRelated events\n\nOutdoor Arts Festival\n\nJun 6, 2026\n\nOutdoor Arts Festival at Tibbits Park. Details are available from the City.\n\nOutdoor Arts Festival\n\nJun 7, 2026\n\nOutdoor Arts Festival at Tibbits Park. Details are available from the City.\n\nPride LGBTQ+ Festival\n\nJun 7, 2026\n\nPride LGBTQ+ Festival at Court Street / Renaissance Plaza. Details are available from the City."
     },
     {
       "id": "page:/events/city-outdoor-arts-festival-2026-06-06/",
@@ -1089,7 +1134,7 @@ export default {
       "url": "/events/library-jump-into-the-jurassic-vr-search-and-find-2026-07-10/",
       "type": "event",
       "excerpt": "Experience Virtual Reality (VR) without a headset in the Library&#39;s panoramic content room.",
-      "text": "Experience Virtual Reality (VR) without a headset in the Library&#39;s panoramic content room.\n\nLearning\n\nJump into the Jurassic: VR Search and Find!\n\nExperience Virtual Reality (VR) without a headset in the Library's panoramic content room.\n\nAbout this event\n\nExperience Virtual Reality (VR) without a headset in the Library's panoramic content room. Technology installed by Igloo Vision and funded by the Library Foundation/Optimum. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nFriday, July 10, 2026\n\nTime\n\n1:00 PM - 1:30 PM\n\nLocation\n\nWhite Plains Public Library\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nUnder the Sea: VR Search and Find!\n\nJul 14, 2026\n\nExperience Virtual Reality (VR) without a headset in the Library's panoramic content room.\n\nOver in the Meadow: VR Search and Find!\n\nMay 19, 2026\n\nExperience Virtual Reality (VR) without a headset in the Library's panoramic content room.\n\nRobert the Guitar Guy\n\nJul 1, 2026\n\nLocal favorite Robert the Guitar Guy comes to the Library!"
+      "text": "Experience Virtual Reality (VR) without a headset in the Library&#39;s panoramic content room.\n\nLearning\n\nJump into the Jurassic: VR Search and Find!\n\nExperience Virtual Reality (VR) without a headset in the Library's panoramic content room.\n\nAbout this event\n\nExperience Virtual Reality (VR) without a headset in the Library's panoramic content room. Technology installed by Igloo Vision and funded by the Library Foundation/Optimum. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nFriday, July 10, 2026\n\nTime\n\n1:00 PM - 1:30 PM\n\nLocation\n\nWhite Plains Public Library\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nOver in the Meadow: VR Search and Find!\n\nMay 19, 2026\n\nExperience Virtual Reality (VR) without a headset in the Library's panoramic content room.\n\nRobert the Guitar Guy\n\nJul 1, 2026\n\nLocal favorite Robert the Guitar Guy comes to the Library!\n\nEarth Day: Stories & Stuff\n\nApr 9, 2026\n\nAfternoon stories and craft for grades K-2."
     },
     {
       "id": "page:/events/library-learn-about-3d-printing-in-the-igloo-2026-04-22/",
@@ -1288,15 +1333,6 @@ export default {
       "type": "event",
       "excerpt": "Career Coaching Services and White Plains Public Library present a free in-person workshop, &#39;Tips for Successful Interviewing&#39;.",
       "text": "Career Coaching Services and White Plains Public Library present a free in-person workshop, &#39;Tips for Successful Interviewing&#39;.\n\nWorkshop\n\nTips for Successful Interviewing\n\nCareer Coaching Services and White Plains Public Library present a free in-person workshop, 'Tips for Successful Interviewing'.\n\nAbout this event\n\nCareer Coaching Services and White Plains Public Library present a free in-person workshop, 'Tips for Successful Interviewing'. A professional career coach can help you be more confident at your next job interview. &bull; Understand the different types of interviews &bull; Utilize AI tools to prepare effectively &bull; Develop strategies for successful interviewing &bull; Enhance your interview skills and techniques &bull; Make a good impression &bull; Present your qualifications and strengths effectively &bull; Learn best practices for following up after the interview Whether you're a recent college grad, job-seeker, or career-changer, this interviewing workshop will help you stand out in a competitive job market! Don't wait - register today! Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nPast\n\nDate\n\nWednesday, April 29, 2026\n\nTime\n\n6:30 PM - 8:00 PM\n\nLocation\n\nWhite Plains Public Library\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nOvercoming Ageism in the Workplace\n\nMay 13, 2026\n\nHow to protect your career or job search from age bias How to address ageism assumptions and myths.\n\nDestination College Workshop Series\n\nMay 18, 2026\n\nWorkshop 8: Crafting Your Story (Essays, Resumes & Recommendations) Focus: Standing out through storytelling.\n\nDestination College Workshop Series\n\nJun 1, 2026\n\nWorkshop 9: Applications & Deadlines (From Strategy to Submission) Focus: Staying organized during application season."
-    },
-    {
-      "id": "page:/events/library-under-the-sea-vr-search-and-find-2026-07-14/",
-      "sourceId": "page:/events/library-under-the-sea-vr-search-and-find-2026-07-14/",
-      "title": "Under the Sea: VR Search and Find!",
-      "url": "/events/library-under-the-sea-vr-search-and-find-2026-07-14/",
-      "type": "event",
-      "excerpt": "Experience Virtual Reality (VR) without a headset in the Library&#39;s panoramic content room.",
-      "text": "Experience Virtual Reality (VR) without a headset in the Library&#39;s panoramic content room.\n\nLearning\n\nUnder the Sea: VR Search and Find!\n\nExperience Virtual Reality (VR) without a headset in the Library's panoramic content room.\n\nAbout this event\n\nExperience Virtual Reality (VR) without a headset in the Library's panoramic content room. Technology installed by Igloo Vision and funded by the Library Foundation/Optimum. Check the library page for registration, tickets, and any schedule updates.\n\nAt a Glance\n\nStatus\n\nUpcoming\n\nDate\n\nTuesday, July 14, 2026\n\nTime\n\n1:00 PM - 1:30 PM\n\nLocation\n\nWhite Plains Public Library\n\nAddress\n\n100 Martine Avenue, White Plains, NY 10601\n\nSource\n\nWhite Plains Public Library\n\nMore Events\n\nRelated events\n\nJump into the Jurassic: VR Search and Find!\n\nJul 10, 2026\n\nExperience Virtual Reality (VR) without a headset in the Library's panoramic content room.\n\nOver in the Meadow: VR Search and Find!\n\nMay 19, 2026\n\nExperience Virtual Reality (VR) without a headset in the Library's panoramic content room.\n\nRobert the Guitar Guy\n\nJul 1, 2026\n\nLocal favorite Robert the Guitar Guy comes to the Library!"
     },
     {
       "id": "page:/events/library-unearth-a-story-2026-07-14/",
